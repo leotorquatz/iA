@@ -1,0 +1,50 @@
+* {
+    background-color: #2D0237;
+}
+
+.linha {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 50%; 
+    width: 70px; 
+    background-color: #710084; 
+    z-index: 999; 
+}
+
+.linha2 {
+    position: fixed;
+    margin-top: 20%;
+    margin-left: 31%;
+    height: 50%; 
+    width: 70px; 
+    background-color: #710084; 
+    z-index: 999; 
+}
+
+.imagem-ia {
+    margin-left: 100px;
+    margin-top: -5%;
+    width: 23%;
+    position: fixed;
+}
+
+.quadrado {
+    margin-left: 48%;
+    width: 750px;
+    height: 600px; 
+    background-color: #710084; 
+    border-radius: 45px;
+    display: flex;
+    flex-direction: column;
+  }
+.quadrado2 {
+    margin-top: 1%;
+    margin-left: 48%;
+    width: 750px;
+    height: 100px; 
+    background-color: #710084; 
+    border-radius: 45px;
+    display: flex;
+    flex-direction: column;
+  }
